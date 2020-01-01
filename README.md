@@ -3,7 +3,7 @@
 This code had been included in the `hledger` as `hledger roi`. This repository will no longer be updated.
 
 # hledger-roi
-Hledger Return-on-investment calucator. Does time-weighted (TWR) and money-weighted (IRR) computations
+Hledger Return-on-investment calculator. Does time-weighted (TWR) and money-weighted (IRR) computations
 
 Both IRR and TWR give you useful approximations that you can use to make your investment decision. 
 
